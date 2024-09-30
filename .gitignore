@@ -1,0 +1,8 @@
+# Ignore compiled files 
+*.class 
+/bin/ 
+/build/ 
+/.vscode/ 
+/lib/*.jar 
+/WebContent/lib/*.jar 
+*.war 
